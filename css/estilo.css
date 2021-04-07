@@ -73,6 +73,11 @@ section#visita {
 	margin-top: 10px;
 }
 
+section#galeria a {
+	display: block;
+	background: url(../imagens/fundo-foto.png) no-repeat;
+}
+
 h4 {
 	color: #86521a;
 	text-transform: uppercase;
