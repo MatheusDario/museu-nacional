@@ -76,6 +76,8 @@ section#visita {
 section#galeria a {
 	display: block;
 	background: url(../imagens/fundo-foto.png) no-repeat;
+	float: left;
+	padding: 15px;
 }
 
 h4 {
